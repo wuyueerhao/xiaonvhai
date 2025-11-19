@@ -3,13 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 小女孩的博客
-subtitle: '记录生活与技术的点点滴滴'
-description: '一个基于 Hexo 和 NexT 主题的静态博客'
-keywords: 博客, 技术, 生活, Hexo, NexT
+title: 小女孩
+subtitle: '小女孩的故事'
+description: '记录小女孩的故事'
+keywords:
 author: 小女孩
-language: zh-CN
-timezone: 'Asia/Shanghai'
+language: en
+timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
