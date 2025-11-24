@@ -1,5 +1,5 @@
 ---
-title: the-three-days-of-things-1
+title: 毕业后的那些事(1)
 date: 2015-08-18 15:40:12
 categories:
   - 随笔
