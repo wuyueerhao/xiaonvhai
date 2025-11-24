@@ -1,38 +1,24 @@
 ---
 title: Hello World
+date: 2016-03-22 15:40:12
+categories:
+  - 随笔
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+哈喽，大家好啊！这里是。。。。。。
 
-## Quick Start
+好久没有写日记啦啦。。。。。。。。。。。
 
-### Create a new post
+想写的，但是又不知道写什么好呢
 
-``` bash
-$ hexo new "My New Post"
-```
+手机可能是有点问题了，今天拿起诺基亚，用海南的号码给同学发短信，哈哈，竟然还有人存着我海南的卡号的，试想，我们毕业两年了，离岛也差不多两年了，存着这号码，证明人家还是认识你的，如果是我，不管我换了多少手机，或号码，我都会留存着别人的号码，不管联不联系，只要翻开手机看看，就想起这个人，有时候会给对方发条短信问候问候（话费比较贵–漫游/长途，伤不起的） .
 
-More info: [Writing](https://hexo.io/docs/writing.html)
+同样的QQ，还是不会删除人，除非你把我删了。
 
-### Run server
+天气好热啊，搬家了，六楼，没有电梯，空气，阳光挺好的。但是靠近马路，晚上车太多，总会影响睡眠。 以前睡八个多小时，现在好像只睡了6个小时吧,总感觉睡不够，但是这不会影响工作，不管怎样，只要是在工作时，我都会像是打了鸡血一样，很有激情，给人
+的感觉，我有用不完的能量。好像每天的笑点还是很低，总会因为一句话， 一件事，一个动作的嘻嘻笑了。但是有时候也很感伤。
 
-``` bash
-$ hexo server
-```
 
-More info: [Server](https://hexo.io/docs/server.html)
 
-### Generate static files
+还有哦，我觉得我最近或者将来的一段的时间，经济都比较拮据哦，但是我欠别人的，我答应是什么时候给，我会给你的，请放心哦，谢谢你能理解哦。
 
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+现在的工作，制度很雷人，最近不太顺心。我也不知道会是多久，我希望可以一直一直呆下去。我是不喜欢换工作的人，我比较喜欢在一个地方一直呆着，因为不在用心思去看别人，不想再用心思认识新的人 ，但是我这个人又是喜欢跟人沟通，喜欢帮助人。想要很多东西，但是现实。。。。。我也觉得自己是一个矛盾体！！！
