@@ -6,3 +6,11 @@ node_modules/
 public/
 .deploy*/
 _multiconfig.yml
+
+# pnpm
+pnpm-lock.yaml
+.pnpm-debug.log*
+
+# npm (保留以防回退)
+package-lock.json
+npm-debug.log*
